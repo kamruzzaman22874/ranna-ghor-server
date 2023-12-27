@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Breakfast",
+        "quantity": "(3)"
+    },
+    {
+        "name": "Dinner",
+        "quantity": "(3)"
+    },
+    {
+        "name": "Drink",
+        "quantity": "(3)"
+    },
+    {
+        "name": "Lunch",
+        "quantity": "(2)"
+    },
+    {
+        "name": "Pasta",
+        "quantity": "(1)"
+    },
+    {
+        "name": "Pizza",
+        "quantity": "(1)"
+    },
+    {
+        "name": "Rezala",
+        "quantity": "(3)"
+    },
+    {
+        "name": "Salad",
+        "quantity": "(3)"
+    }
+]
